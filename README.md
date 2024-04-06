@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Amir
+=====================
 
-<!--
-**Amir-Rasteg/Amir-Rasteg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer and NeuroScientist and XR Tinkerer
+--------------------------------------------
 
-Here are some ideas to get you started:
+Been fiddling with robotic kits since I was young, I now am a proud self-hoster who experiments wtih various XR platform development, and have been teaching myself signal processing with my EEG kit, as well as other various personal projects. Currently working at Neuraville on FEAGI, an open source framework that allows for simulation of neuronal structures based on the human brain!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in New York
+*   ✉️  You can contact me at [amir.rasteg@protonmail.com](mailto:amir.rasteg@protonmail.com)
+*   🚀  I'm currently working on [FEAGI](http://neuraville.com/)
+*   🧠  I'm learning Various XR projects and integrating EEG into a Big Screen Beyond headset
+*   ⚡  Array indexing should NEVER start at 1
